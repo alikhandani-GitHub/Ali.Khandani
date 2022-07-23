@@ -59,7 +59,7 @@ div.male{
 }
 
 
-div.farmel{
+div.female{
 	width: 16%;
 	height: 20px;
 	background: #e0dede;
@@ -77,7 +77,7 @@ input.male{
 }
 
 
-input.farmel{
+input.female{
 	display: inline-block;
 	margin:-40px -60px 0px 0px;
 }
@@ -88,7 +88,7 @@ input.farmel{
 }
 
 
-.farmel:hover{
+.female:hover{
     background-color: rgb(204, 237, 250);
 }
 
